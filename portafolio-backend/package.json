@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
-  "author": "Víctor Robles",
+  "author": "Miguel Bohórquez",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.2",
